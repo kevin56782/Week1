@@ -1,6 +1,6 @@
 <html>
   <heah>
-    <font size"6">Welcome to MyHome</font>
+    <font size="6">Welcome to MyHome</font>
   </head>
   <body>
   </body>
