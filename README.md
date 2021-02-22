@@ -4,7 +4,6 @@
     Welcome to MyHome
   </head>
   <body>
-    1
   </body>
 </html>
   
