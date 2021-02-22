@@ -1,7 +1,7 @@
 # Week1
 <html>
   <heah>
-    <title> Welcome to MyHome
+    <title>Welcome to MyHome
     </title>
   </head>
   <body>
