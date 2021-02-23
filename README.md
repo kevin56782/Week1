@@ -27,7 +27,7 @@
       </div>      
       <div class="box">
 #台中車站#  
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGuThY3Wy6RWN6PVWq1jebblT4-6HGl84RwQ&usqp=CAU"></img>
+        <img src="https://travel.taichung.gov.tw/Utility/DisplayImage?id=27960&rnd=1542692405390"></img>
       </div>
       <div class="box">
 #台南車站#  
