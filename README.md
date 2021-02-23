@@ -9,7 +9,7 @@
       width:1200px;margin-left:atuo;margin-right:auto;
     }
   .box{
-      width:280px;padding:5px;margin:5px;backgrond-color:witch;height:200px;
+      height:200px;width:280px;padding:5px;margin:5px;backgrond-color:witch;
       display:inline-block;vertical-align:top;
     }
    </style>
