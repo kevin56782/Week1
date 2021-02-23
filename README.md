@@ -17,10 +17,18 @@
 <body style="margin:0px;">
   <div class="head">Welcome to MyHome</div>
   <div class="content">
-      <div class="box"><img src="C:\Users\糧有\Desktop/台北車站.jpg"></img></div>
-      <div class="box"><img src="C:\Users\糧有\Desktop/桃園車站.jpg"></img></div>
-      <div class="box"><img src="C:\Users\糧有\Desktop/台中車站.jpg"></img></div>
-      <div class="box"><img src="C:\Users\糧有\Desktop/台南車站.jpg"></img></div>
+      <div class="box">
+          <img src="C:\Users\糧有\Desktop/台北車站.jpg"></img>
+      </div>
+      <div class="box">
+        <img src="C:\Users\糧有\Desktop/桃園車站.jpg"></img>
+      </div>
+      <div class="box">
+        <img src="C:\Users\糧有\Desktop/台中車站.jpg"></img>
+      </div>
+      <div class="box">
+        <img src="C:\Users\糧有\Desktop/台南車站.jpg"></img>
+      </div>
   </div>
 </body>
 </html>
