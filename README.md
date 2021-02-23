@@ -1,6 +1,6 @@
 <html>
   <heah>
-    <title>MyHome</title>
+    <style type="text/css">
     .head{
         color:black;font-size:40px;text-align:center;padding:150px;
     }
