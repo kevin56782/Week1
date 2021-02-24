@@ -20,7 +20,7 @@
       display:inline-block;vertical-align:top;
     }
    </style>
-    </head>
+   </head>
 <body style="margin:0px;">
   <div class="head">Welcome to MyHome</div>
   <div class="content">
