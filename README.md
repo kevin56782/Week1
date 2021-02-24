@@ -27,9 +27,11 @@
       </div>      
       <div class="box">
         <img src="https://travel.taichung.gov.tw/Utility/DisplayImage?id=27960&rnd=1542692405390" height=200px/>
+        <p align="center" valign="center">台中車站</p>
       </div>
       <div class="box"> 
         <img src="https://img.ltn.com.tw/Upload/news/600/2019/05/01/202.jpg" height=200px/>
+        <p align="center" valign="center">台南車站</p>
       </div>
   </div>
 </body>
