@@ -18,16 +18,16 @@
   <div class="head">Welcome to MyHome</div>
   <div class="content">
       <div class="box">
-        <img src="https://photo.travelking.com.tw/scenery/36C8FB62-5AFB-4249-B911-EE7AEA50B6BB_e.jpg"></img>
+        <img src="https://photo.travelking.com.tw/scenery/36C8FB62-5AFB-4249-B911-EE7AEA50B6BB_e.jpg">
       </div>
       <div class="box">
-        <img src="https://www.alberthsieh.com/wp-content/uploads/flickr/19436420784_b8c64408d4_b.jpg"></img>
+        <img src="https://www.alberthsieh.com/wp-content/uploads/flickr/19436420784_b8c64408d4_b.jpg">
       </div>      
       <div class="box">
-        <img src="https://travel.taichung.gov.tw/Utility/DisplayImage?id=27960&rnd=1542692405390"></img>
+        <img src="https://travel.taichung.gov.tw/Utility/DisplayImage?id=27960&rnd=1542692405390">
       </div>
       <div class="box"> 
-        <img src="https://img.ltn.com.tw/Upload/news/600/2019/05/01/202.jpg"></img>
+        <img src="https://img.ltn.com.tw/Upload/news/600/2019/05/01/202.jpg">
       </div>
   </div>
 </body>
