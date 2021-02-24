@@ -26,7 +26,7 @@
       </div>
       <div class="box">
         <img src="https://www.alberthsieh.com/wp-content/uploads/flickr/19436420784_b8c64408d4_b.jpg" height=200px/>
-        <tr><td align="center" valign="center">桃園車站</td></tr>
+        <p><td align="center" valign="center">桃園車站</td></p>
       </div>      
       <div class="box">
         <img src="https://travel.taichung.gov.tw/Utility/DisplayImage?id=27960&rnd=1542692405390" height=200px/>
