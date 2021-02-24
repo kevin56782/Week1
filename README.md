@@ -1,6 +1,6 @@
 <html>
-<heah>
-  <meta charset="utf-8"></meat>
+<head>
+  <meta charset="utf-8"></meta>
   <style type="text/css">
   .head{
       color:black;font-size:40px;text-align:center;padding:150px;
